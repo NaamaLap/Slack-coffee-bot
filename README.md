@@ -79,6 +79,7 @@ Slack notifications for the paired users
   User preferences (team-based pairing, time zone matching)
   Web dashboard for admins to monitor pairings
   Feedback collection from users after coffee chats
+  
 📸 Demo
 Add a screenshot or GIF demonstrating how the bot works in Slack. You can upload it to GitHub or link it from an external source:
 

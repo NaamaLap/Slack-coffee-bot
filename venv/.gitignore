@@ -1,0 +1,22 @@
+# Exclude Windows directories and system files
+AppData/
+Documents/
+Favorites/
+OneDrive/
+Saved Games/
+Videos/
+Downloads/
+
+# Exclude Python-related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Exclude IDE-related files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Exclude any other irrelevant files
+firebase-credentials.json
